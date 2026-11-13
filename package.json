@@ -1,0 +1,11 @@
+{
+  "name": "hearthside-home-library",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
